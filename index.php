@@ -1,5 +1,5 @@
 <?php 
 
-	echo "HEllo Word"
+	echo "Olá mundo"
 	
 ?>
